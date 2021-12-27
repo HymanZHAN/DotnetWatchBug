@@ -1,0 +1,12 @@
+/home/xzhan/Development/Projects/DotnetWatchBug/Domain/bin/Debug/net6.0/Domain.deps.json
+/home/xzhan/Development/Projects/DotnetWatchBug/Domain/bin/Debug/net6.0/Domain.dll
+/home/xzhan/Development/Projects/DotnetWatchBug/Domain/bin/Debug/net6.0/ref/Domain.dll
+/home/xzhan/Development/Projects/DotnetWatchBug/Domain/bin/Debug/net6.0/Domain.pdb
+/home/xzhan/Development/Projects/DotnetWatchBug/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/home/xzhan/Development/Projects/DotnetWatchBug/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/xzhan/Development/Projects/DotnetWatchBug/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/home/xzhan/Development/Projects/DotnetWatchBug/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/home/xzhan/Development/Projects/DotnetWatchBug/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/home/xzhan/Development/Projects/DotnetWatchBug/Domain/obj/Debug/net6.0/Domain.dll
+/home/xzhan/Development/Projects/DotnetWatchBug/Domain/obj/Debug/net6.0/ref/Domain.dll
+/home/xzhan/Development/Projects/DotnetWatchBug/Domain/obj/Debug/net6.0/Domain.pdb

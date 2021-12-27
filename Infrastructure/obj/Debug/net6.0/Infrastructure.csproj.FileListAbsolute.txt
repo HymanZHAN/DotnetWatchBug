@@ -1,0 +1,12 @@
+/home/xzhan/Development/Projects/DotnetWatchBug/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/home/xzhan/Development/Projects/DotnetWatchBug/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/home/xzhan/Development/Projects/DotnetWatchBug/Infrastructure/bin/Debug/net6.0/ref/Infrastructure.dll
+/home/xzhan/Development/Projects/DotnetWatchBug/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/home/xzhan/Development/Projects/DotnetWatchBug/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/home/xzhan/Development/Projects/DotnetWatchBug/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/xzhan/Development/Projects/DotnetWatchBug/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/home/xzhan/Development/Projects/DotnetWatchBug/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/home/xzhan/Development/Projects/DotnetWatchBug/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/home/xzhan/Development/Projects/DotnetWatchBug/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/home/xzhan/Development/Projects/DotnetWatchBug/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll
+/home/xzhan/Development/Projects/DotnetWatchBug/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb
